@@ -1,2 +1,2 @@
-# Uninter
-Trabalho da UNINTER para criar um site de currículo.
+# Uninter 👩‍🎓
+Trabalhos realizados durante o tempo de curso na UNINTER.
