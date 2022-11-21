@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Emerson Librelato\source\repos\desp\desp\Origem.cpp(196,8): warning C4101: 'prox_cad': variável local não referenciada
+  desp.vcxproj -> C:\Users\Emerson Librelato\source\repos\desp\Debug\desp.exe
