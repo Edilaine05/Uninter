@@ -1,0 +1,13 @@
+﻿  Origem.cpp
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(30,11): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(30,11): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(30,11): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(30,11): message : esse argumento é usado como um tamanho do buffer
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(33,11): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(33,11): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(33,11): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(33,11): message : esse argumento é usado como um tamanho do buffer
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(49,42): warning C4554: '|': verifique a precedência de operador para possível erro; use parênteses para esclarecer a precedência
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(69,48): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\pesquisa_de_mercado\Origem.cpp(70,45): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  pesquisa_de_mercado.vcxproj -> C:\Users\Emerson Librelato\source\repos\pesquisa_de_mercado.sln\x64\Debug\pesquisa_de_mercado.exe
