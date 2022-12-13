@@ -1,2 +1,2 @@
-Peojeto curriculo/portifolio UNINTER.<br>
+Projeto curriculo/portfolio UNINTER.<br>
 https://curriculoedilaine.web.app/
