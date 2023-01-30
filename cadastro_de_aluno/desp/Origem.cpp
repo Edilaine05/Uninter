@@ -92,10 +92,10 @@ void cadastro() // implementa a funcao cadastro
 		scanf_s("%d", &cad_atual->ru);
 		while ((c = getchar()) != '\n' && c != EOF) {}
 		printf("Digite o Nome:");
-		scanf_s("%s", &cad_atual->nome, 60); //Nome tem no máximo 60 caracteres
+		scanf_s("%s", &cad_atual->nome, 60); //Nome tem no mï¿½ximo 60 caracteres
 		while ((c = getchar()) != '\n' && c != EOF) {}
 		printf("Digite o email:");
-		scanf_s("%s", &cad_atual->email, 100); //Email tem no máximo 100 caracteres
+		scanf_s("%s", &cad_atual->email, 100); //Email tem no mï¿½ximo 100 caracteres
 		
 		ultimo_cad = cad_atual; //Salva os itens cadastrados antes de sair
 		ultimo_cad->proximo = NULL;
@@ -158,7 +158,7 @@ void pesquisa() // implementa a funcao pesquisa
 		case 2:
 			// faz a pesquisa por nome do aluno
 			printf("\n Digite o nome do Aluno:");
-			scanf_s("%s", nome_aux, 60);//não precisa de & para string
+			scanf_s("%s", nome_aux, 60);//nï¿½o precisa de & para string
 			while ((c = getchar()) != '\n' && c != EOF) {}
 			while (prox_cad != NULL) {
 				if (strcmp(prox_cad->nome, nome_aux) == NULL)
